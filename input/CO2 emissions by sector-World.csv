@@ -1,0 +1,12 @@
+Source: IEA Greenhouse Gas Emissions from Energy https://www.iea.org/data-and-statistics/data-product/co2-emissions-from-fuel-combustion
+Documentation: https://iea.blob.core.windows.net/assets/d82f9e09-9080-4dcf-9100-0ba686536341/WORLD_GHG_Documentation.pdf
+This data is subject to the IEA's terms and conditions: https://www.iea.org/terms
+
+,Electricity and heat producers,Other energy industries,Industry,Transport,Residential,Commercial and public services,Agriculture,Fishing,Final consumption not elsewhere specified,Units
+1990,7621,971,3954,4610,1832,765,398,18,341,Mt CO2
+1995,8162,1067,3937,5024,1847,718,402,18,191,Mt CO2
+2000,9359,1196,3874,5773,1829,695,337,19,158,Mt CO2
+2005,10977,1407,4925,6502,1901,773,396,24,180,Mt CO2
+2010,12500,1650,6082,7013,1898,810,395,23,205,Mt CO2
+2015,13358,1635,6325,7725,1870,822,405,20,202,Mt CO2
+2019,14068,1694,6254,8222,1969,825,407,20,162,Mt CO2
